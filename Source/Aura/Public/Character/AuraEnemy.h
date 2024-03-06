@@ -1,12 +1,9 @@
 // Copyright BlueFireGames Dev
-
 #pragma once
-
 #include "CoreMinimal.h"
 #include "Character/AuraCharacterBase.h"
 #include "Interaction/EnemyInterface.h"
 #include "AuraEnemy.generated.h"
-
 /**
  * 
  */
@@ -21,6 +18,7 @@ public:
 	/** Enemy Interface */
 	virtual void HighlightActor() override;
 	virtual void UnHighlightActor() override;
+
 	/** Enemy Interface */
 
 protected:

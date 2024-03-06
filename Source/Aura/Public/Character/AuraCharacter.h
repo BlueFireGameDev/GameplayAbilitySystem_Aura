@@ -1,11 +1,8 @@
 // Copyright BlueFireGames Dev
-
 #pragma once
-
 #include "CoreMinimal.h"
 #include "Character/AuraCharacterBase.h"
 #include "AuraCharacter.generated.h"
-
 /**
  * 
  */
@@ -20,5 +17,5 @@ public:
 
 private:
 	void InitAbilityActorInfo();
-	
+
 };
