@@ -54,6 +54,8 @@
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraPrimaryAttributes.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraSecondaryAttribute.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraVitalAttributes.uasset",
+				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/UI/AttributeMenu/WBP_FramedValue.uasset",
+				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/UI/AttributeMenu/WBP_TextValueRow.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/PrimaryAttributes/GE_AuraPrimaryAttributes.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/Actor/Potion/CT_PotionHeal.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/Actor/Potion/GE_CrystalHeal.uasset",
