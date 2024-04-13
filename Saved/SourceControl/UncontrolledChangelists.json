@@ -60,6 +60,7 @@
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Assets/UI/Globes/MI_FlowingUIBG.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/UI/AttributeMenu/WBP_AttributeMenu.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/UI/Button/WBP_Button.uasset",
+				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/UI/Button/WBP_WideButton.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/PrimaryAttributes/GE_AuraPrimaryAttributes.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/Actor/Potion/CT_PotionHeal.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/Actor/Potion/GE_CrystalHeal.uasset",
