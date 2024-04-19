@@ -68,7 +68,7 @@ public:
 	virtual void PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) override;
 	virtual void PostGameplayEffectExecute(const FGameplayEffectModCallbackData& Data) override;
 
-	TMap<FGameplayTag,TStaticFuncPtr<FGameplayAttribute()>> TagsToAttribute;
+	TMap<FGameplayTag,TStaticFuncPtr<FGameplayAttribute()>> TagsToAttributes;
 	/*
 	 * Primary Attributes
 	 */
