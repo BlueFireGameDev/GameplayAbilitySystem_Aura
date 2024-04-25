@@ -44,6 +44,8 @@ private:
 	void CursorTrace();
 	IEnemyInterface* LastActor;
 	IEnemyInterface* ThisActor;
+	FHitResult CursorHit;
+
 
 	void AbilityInputTagPressed(FGameplayTag InputTag);
 	void AbilityInputTagReleased(FGameplayTag InputTag);
@@ -53,7 +55,7 @@ private:
 	TObjectPtr<UAuraInputConfig> InputConfig;
 
 	UPROPERTY()
-	TObjectPtr<UAuraAbilitySystemComponent> AurAbilitySystemComponent;
+	TObjectPtr<UAuraAbilitySystemComponent> AuraAbilitySystemComponent;
 
 	UAuraAbilitySystemComponent* GetASC();
 
@@ -68,5 +70,7 @@ private:
 	
 	UPROPERTY(VisibleAnywhere)
 	TObjectPtr<USplineComponent> Spline;
+
+	void AutoRun();
 	
 };
