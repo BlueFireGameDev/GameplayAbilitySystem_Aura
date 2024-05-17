@@ -98,6 +98,8 @@
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Assets/Enemies/Goblin/Animations/Spear/AM_HitReact_GoblinSpear.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Assets/Materials/M_DissolveEffect.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Assets/Enemies/Goblin/Materials/MI_GoblinDissolve.uasset",
+				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/UI/FloatingText/WBP_DamageText.uasset",
+				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/UI/FloatingText/BP_DamageTextComponent.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_SecondaryAttributes.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraPrimaryAttributes.uasset",
 				"T:/Unreal Engine Projects/Unreal Engine 5.2 Projects/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraSecondaryAttribute.uasset",
